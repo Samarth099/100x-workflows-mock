@@ -1,8 +1,8 @@
-# 100x Discover Workflows
+# 100x Workflows Mock
 
 Discover Workflows page (100x.bot style) built with Vite, React, TypeScript, and shadcn. Project-specific assets (fonts, etc.) live in `public/fonts/` and are tracked in this repo.
 
-- **Repo:** [github.com/Samarth099/100x-discover](https://github.com/Samarth099/100x-discover)
+- **Repo:** [github.com/Samarth099/100x-workflows-mock](https://github.com/Samarth099/100x-workflows-mock)
 - **Run:** `npm install && npm run dev`
 - **Fonts:** Add font files to `public/fonts/` and reference in CSS with `url('/fonts/your-font.woff2')`.
 
