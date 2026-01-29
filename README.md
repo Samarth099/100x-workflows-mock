@@ -1,3 +1,13 @@
+# 100x Discover Workflows
+
+Discover Workflows page (100x.bot style) built with Vite, React, TypeScript, and shadcn. Project-specific assets (fonts, etc.) live in `public/fonts/` and are tracked in this repo.
+
+- **Repo:** [github.com/Samarth099/100x-discover](https://github.com/Samarth099/100x-discover)
+- **Run:** `npm install && npm run dev`
+- **Fonts:** Add font files to `public/fonts/` and reference in CSS with `url('/fonts/your-font.woff2')`.
+
+---
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
